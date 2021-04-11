@@ -1,0 +1,11 @@
+{
+    "name": "@jjwesterkamp/typedoc-theme",
+    "version": "1.0,0",
+    "description": "A Typedoc theme optimized for the nord highlight theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JJWesterkamp/typedoc-theme.git"
+    },
+    "author": "Jeffrey Westerkamp",
+    "license": "MIT"
+}
