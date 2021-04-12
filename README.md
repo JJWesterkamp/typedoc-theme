@@ -1,9 +1,9 @@
 # @jjwesterkamp/typedoc-theme
 
-A [Typedoc] theme that I use personally. Examples:
+The [Typedoc] theme that I use for my projects. You can find examples here:
 
-- [lambda-dom](https://jjwesterkamp.github.io/lambda-dom)
-- [@jjwesterkamp/event-delegation](https://jjwesterkamp.github.io/event-delegation)
+- [lambda-dom documentation](https://jjwesterkamp.github.io/lambda-dom)
+- [event-delegation documentation](https://jjwesterkamp.github.io/event-delegation)
 
 ## Usage
 
@@ -24,4 +24,5 @@ Add the theme to your `typedoc.json` file. This theme is optimized for the _nord
 
 The MIT License (MIT). See [license file] for more information.
 
+[Typedoc]: https://typedoc.org/
 [license file]: https://github.com/JJWesterkamp/lambda-dom/blob/master/LICENSE
