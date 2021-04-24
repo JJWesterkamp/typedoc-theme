@@ -1650,6 +1650,10 @@
     background-color: transparent;
   }
 
+  pre code.language-text {
+    color: #D8DEE9;
+  }
+
   blockquote {
     margin: 1em 0;
     padding-left: 1em;
